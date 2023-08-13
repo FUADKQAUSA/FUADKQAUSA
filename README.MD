@@ -37,5 +37,5 @@ Languages and Tools I use :
 <hr> 
 </p>
 <p align="center">
-MY HOBBIES : Sports, Creating Music, Fishing, Cooking
-</p>
+MY HOBBIES : Sports, Fishing, Cooking, Discover 
+</p
