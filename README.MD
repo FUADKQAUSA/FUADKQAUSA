@@ -1,4 +1,4 @@
-![QA-banner](https://user-images.githubusercontent.com/119007907/209415679-06ec90a6-3efd-4c60-9652-5212ab9829d1.jpg)
+![QA-banner](https://images.ctfassets.net/3viuren4us1n/o0fLDSsSwaqj3THyvYm9H/db2a23c4fe78042cc471206d6cdf8e67/qa.jpg?fm=webp&w=1920)
 <p align="center">
 It's not about being the best, it's about being better than you were yesterday!
 </p>
