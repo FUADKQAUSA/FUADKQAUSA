@@ -3,8 +3,6 @@
 <a href="https://www.linkedin.com/in/fuad--karimov/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <div align="center">
-</div>
-<div align="center">
 <img src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2014/07/code-minions.gif" width="600"><div>
 <p align="center">
 It's not about being the best, it's about being better than you were yesterday!
