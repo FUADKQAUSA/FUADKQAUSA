@@ -1,4 +1,5 @@
-<video id="ember35_html5_api" class="vjs-tech" tabindex="-1" role="application" preload="metadata" muted="muted" poster="https://media.licdn.com/dms/image/D4D05AQGEgqvej_0pdQ/videocover-high/0/1689842185797?e=1693159200&amp;v=beta&amp;t=ZKLlpufuTLyCcimtla9eYwQxs3Hx1Do_rd12Zn5ldTQ" src="https://dms-exp2.licdn.com/playlist/vid/D4D05AQGEgqvej_0pdQ/mp4-720p-30fp-crf28/0/1689842190948?e=1693159200&amp;v=beta&amp;t=xdWewP07dm6-RcBFmpYy6hkUGhLLuZANYztmGAktLkI" autoplay="autoplay"></video>
+<p align="center">
+<div class="vjs-poster-background" style="background-image: url(&quot;https://media.licdn.com/dms/image/D4D05AQGEgqvej_0pdQ/videocover-high/0/1689842185797?e=1693159200&amp;v=beta&amp;t=ZKLlpufuTLyCcimtla9eYwQxs3Hx1Do_rd12Zn5ldTQ&quot;);"></div>
 <p align="center">
 It's not about being the best, it's about being better than you were yesterday!
 </p>
