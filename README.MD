@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2014/07/code-minions.gif" width="200"><div>
+<img src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2014/07/code-minions.gif" width="600"><div>
 <p align="center">
 It's not about being the best, it's about being better than you were yesterday!
 </p>
