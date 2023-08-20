@@ -1,4 +1,4 @@
-![QA-banner](https://as2.ftcdn.net/v2/jpg/04/34/57/55/1000_F_434575550_74otSnOFJu9b4ScoHlksthWB3jbeRwUO.jpg)
+![QA-banner](https://dms-exp2.licdn.com/playlist/vid/D4D05AQGEgqvej_0pdQ/mp4-720p-30fp-crf28/0/1689842190948?e=1693159200&v=beta&t=xdWewP07dm6-RcBFmpYy6hkUGhLLuZANYztmGAktLkI)
 <p align="center">
 It's not about being the best, it's about being better than you were yesterday!
 </p>
