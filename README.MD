@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi! My name is Fuad. I'm a Software QA Manual and Automation Engineer</h1>
+<h2 align="center">Hi! My name is Fuad. I'm a Software QA Manual and Automation Engineer</h1>
 <div align="center">
 <img src="https://huddle.eurostarsoftwaretesting.com/wp-content/uploads/2014/07/code-minions.gif" width="600"><div>
 <a href="https://www.linkedin.com/in/fuad--karimov/">
